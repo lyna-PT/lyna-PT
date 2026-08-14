@@ -1,6 +1,6 @@
 <!-- BANNER -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/lyna-PT/lyna-PT/main/assets/your-banner.png" alt="LynaTech Banner" width="100%"/>
+  <img src="https://raw.githubusercontent.com/lyna-PT/lyna-PT/main/assets/GitHub README Banner.png" alt="LynaTech Banner" width="100%"/>
 </p>
 
 <!-- TYPING EFFECT -->
@@ -35,14 +35,6 @@
   </a>
 </p>
 
-![Profile Views](https://komarev.com/ghpvc/?username=LynaTech&color=blue&style=flat-square)
-
-<!-- ABOUT ME -->
-<p align="center">
-  <b>Aspiring Full-Stack Developer</b> exploring Cybersecurity. Building projects, learning in public, and improving one commit at a time.
-</p>
-
----
 
 ## 🚀 A little more about me
 
@@ -76,19 +68,3 @@ const lyna = {
   funFact: "I believe every bug is a learning opportunity in disguise"
 };
 
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LynaTech&show_icons=true&theme=radical&hide_border=true" height="180px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LynaTech&layout=compact&theme=radical&hide_border=true" height="180px" />
-</div>
-
-
-## 📈 Contribution Graph
-
-![Lyna's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=LynaTech&theme=react-dark&hide_border=true)
-
-## 🔥 Streak Stats
-
-![GitHub Streak](https://streak-stats.demolab.com?user=LynaTech&theme=radical&hide_border=true)
