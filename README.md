@@ -3,7 +3,7 @@
 Aspiring Full-Stack Developer exploring Cybersecurity. Building projects, learning in public, and improving one commit at a time.
 
 [![GitHub followers](https://img.shields.io/github/followers/lyna-PT?style=social)](https://github.com/lyna-PT)
-[![Twitter Follow](https://img.shields.io/twitter/follow/lyna__tech?style=social)](https://twitter.com/lyna__tech)
+
 ![Profile Views](https://komarev.com/ghpvc/?username=lyna-PT&color=blue)
 
 ---
