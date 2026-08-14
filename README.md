@@ -66,10 +66,6 @@ const lyna = {
   funFact: "I believe every bug is a learning opportunity in disguise"
 };
 
-## 📊 GitHub Stats
+## 🏆 GitHub Trophies
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=lyna-PT&amp;show_icons=true&amp;theme=radical&amp;hide_border=true&amp;include_all_commits=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lyna-PT&amp;layout=compact&amp;theme=radical&amp;hide_border=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=lyna-PT&amp;theme=radical&amp;hide_border=true)
+![trophy](https://github-profile-trophy.vercel.app/?username=lyna-PT&theme=radical)
