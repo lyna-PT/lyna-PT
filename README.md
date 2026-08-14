@@ -66,12 +66,8 @@ const lyna = {
   funFact: "I believe every bug is a learning opportunity in disguise"
 };
 
-## 📊 GitHub Stats
+# Test
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lyna-PT" alt="GitHub Stats" />
-</p>
+![Stats](https://github-readme-stats.vercel.app/api?username=lyna-PT)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lyna-PT" alt="Top Languages" />
-</p>
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lyna-PT)
