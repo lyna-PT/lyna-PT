@@ -4,9 +4,7 @@
 </p>
 
 <!-- TYPING EFFECT -->
-<p align="center">
-  <img src="[https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=600&lines=Aspiring+Full-Stack+Developer;Cybersecurity+Explorer;Building+in+Public;One+commit+at+a+time](https://readme-typing-svg.demolab.com?font=Montserrat&weight=700&pause=1000&color=A855F7&width=600&lines=%F0%9F%91%8B+Hi%2C+I'm+Lyna;Aspiring+Full-Stack+Developer;Cybersecurity+Explorer;Building+in+Public;One+commit+at+a+time)" alt="Typing SVG" />
-</p>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Montserrat&weight=700&pause=1000&color=A855F7&width=600&lines=%F0%9F%91%8B+Hi%2C+I'm+Lyna;Aspiring+Full-Stack+Developer;Cybersecurity+Explorer;Building+in+Public;One+commit+at+a+time)](https://git.io/typing-svg)
 
 <!-- PROFILE VIEWS & FOLLOWERS -->
 <p align="center">
@@ -15,7 +13,7 @@
   </a>
   <img src="https://komarev.com/ghpvc/?username=lyna-PT&color=blue&style=flat-square" />
   <a href="https://github.com/lyna-PT?tab=repositories">
-    <img src="https://img.shields.io/badge/Repositories-XX-blue?style=flat-square&logo=github" />
+    <img src="https://img.shields.io/badge/Repositories-4-blue?style=flat-square&logo=github" />
   </a>
 </p>
 
