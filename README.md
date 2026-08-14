@@ -68,8 +68,11 @@ const lyna = {
 
 ## 📊 GitHub Stats
 
-![Lyna's GitHub Stats](https://github-readme-stats.vercel.app/api?username=lyna-PT&show_icons=true&theme=radical&hide_border=true&include_all_commits=true)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=lyna-PT&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lyna-PT&layout=compact&theme=radical&hide_border=true" height="180px" />
+</p>
 
-![Lyna's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lyna-PT&layout=compact&theme=radical&hide_border=true)
-
-![Lyna's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=lyna-PT&theme=radical&hide_border=true)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lyna-PT&theme=radical&hide_border=true" height="180px" />
+</p>
