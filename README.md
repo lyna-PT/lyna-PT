@@ -66,8 +66,16 @@ const lyna = {
   funFact: "I believe every bug is a learning opportunity in disguise"
 };
 
+<!-- BANNER -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/lyna-PT/lyna-PT/main/assets/your-banner.png" alt="LynaTech Banner" width="100%"/>
+</p>
+
+<!-- STATS AT THE VERY TOP -->
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lyna-PT&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=lyna-PT&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lyna-PT&layout=compact&theme=radical)
+
+<!-- REST OF YOUR README -->
