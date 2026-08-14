@@ -66,4 +66,4 @@ const lyna = {
   funFact: "I believe every bug is a learning opportunity in disguise"
 };
 
-![Profile Views](https://komarev.com/ghpvc/?username=lyna-PT)
+
