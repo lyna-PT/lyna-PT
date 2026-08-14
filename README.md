@@ -66,6 +66,6 @@ const lyna = {
   funFact: "I believe every bug is a learning opportunity in disguise"
 };
 
-## 🏆 GitHub Trophies
+## Test Image
 
-![trophy](https://github-profile-trophy.vercel.app/?username=lyna-PT&theme=radical)
+![Test](https://via.placeholder.com/150)
